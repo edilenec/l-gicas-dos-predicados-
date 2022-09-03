@@ -1,2 +1,2 @@
-# l-gicas-dos-predicados-
+# logicas-de-predicados-
 Amadok
